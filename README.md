@@ -11,7 +11,7 @@ DetikAssessment adalah landing page yang dibangun dengan menggunakan kerangka ke
 - CSS
 - Bootstrap Framework
 - Javascript
-- 
+  
 ## Tentang MSIB Kampus Merdeka
 Magang MSIB Kampus Merdeka di detik merupakan program yang memberikan kesempatan kepada mahasiswa untuk mengembangkan keterampilan praktis dan pemahaman industri melalui proyek-proyek nyata.
 
